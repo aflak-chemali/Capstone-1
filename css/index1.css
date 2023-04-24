@@ -1,6 +1,6 @@
 body  {
 
-    background-image: url("../images/checkout.jpg")!important;
+    background-image: url("../images/greg-rosenke-6QnEf_b47eA-unsplash.jpg")!important;
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -8,4 +8,5 @@ body  {
    .navbar a:hover{
     
     color:yellow !important;
-}
+
+   }
